@@ -24,7 +24,7 @@ const Navbar = () => {
 
         <div className="flex flex-col">
           <h1 className="text-2xl md:text-3xl font-black text-white uppercase tracking-widest font-[Impact] drop-shadow-[0_0_10px_rgba(139,0,0,0.5)]">
-            Tattoo Art
+             Keaf Tattoo
           </h1>
           <span className="text-[#8B0000] text-xs font-semibold tracking-wider uppercase">
             Ink Studio
